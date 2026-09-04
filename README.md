@@ -28,7 +28,7 @@ print the characters and its huffmancode
  
 ## Program:
 
-``` Python
+Python
 # Get the input String
 ```
 string = 'VINO'
@@ -93,7 +93,6 @@ for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
 ```
 
-```
 ## Output:
 
 ![alt text](<Screenshot 2026-09-04 213947.png>)
